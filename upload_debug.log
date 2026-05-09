@@ -1,0 +1,599 @@
+--- 2026-05-02 21:54:00 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:54:02 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:54:03 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:54:03 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:54:03 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:54:14 ---
+POST: Array
+(
+    [album] => Campus Tour
+)
+
+FILES: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 0
+                )
+
+        )
+
+)
+
+--- 2026-05-02 21:54:27 ---
+POST: Array
+(
+    [album] => Campus Tour
+)
+
+FILES: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => 
+                )
+
+            [full_path] => Array
+                (
+                    [0] => 
+                )
+
+            [type] => Array
+                (
+                    [0] => 
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => 
+                )
+
+            [error] => Array
+                (
+                    [0] => 4
+                )
+
+            [size] => Array
+                (
+                    [0] => 0
+                )
+
+        )
+
+)
+
+--- 2026-05-02 21:55:01 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:55:10 ---
+POST: Array
+(
+    [album] => Campus Tour
+)
+
+FILES: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => ChatGPT Image Apr 29, 2026, 01_46_17 PM.png
+                )
+
+            [full_path] => Array
+                (
+                    [0] => ChatGPT Image Apr 29, 2026, 01_46_17 PM.png
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php17A8.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 2331111
+                )
+
+        )
+
+)
+
+--- 2026-05-02 21:55:10 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:55:38 ---
+POST: Array
+(
+    [album] => Campus Tour
+)
+
+FILES: Array
+(
+    [images] => Array
+        (
+            [name] => Array
+                (
+                    [0] => Dr. A. H. Rizvi Degree College.png
+                    [1] => Dr. Rizvi College of Education.png
+                    [2] => Dr. Rizvi Learners' Academy.png
+                )
+
+            [full_path] => Array
+                (
+                    [0] => Dr. A. H. Rizvi Degree College.png
+                    [1] => Dr. Rizvi College of Education.png
+                    [2] => Dr. Rizvi Learners' Academy.png
+                )
+
+            [type] => Array
+                (
+                    [0] => image/png
+                    [1] => image/png
+                    [2] => image/png
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => C:\xampp\tmp\php870C.tmp
+                    [1] => C:\xampp\tmp\php870D.tmp
+                    [2] => C:\xampp\tmp\php873D.tmp
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                    [1] => 0
+                    [2] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 845021
+                    [1] => 6823290
+                    [2] => 7503459
+                )
+
+        )
+
+)
+
+--- 2026-05-02 21:55:38 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:56:05 ---
+POST: Array
+(
+    [action] => delete
+    [id] => 1
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 21:56:05 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+--- 2026-05-02 22:00:20 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:01:26 ---
+POST: Array
+(
+    [name] => manas singh
+    [father_name] => bhim praaksh
+    [email] => creatersanime@gmail.com
+    [mobile] => 123456789
+    [last_class] => 2023
+    [address] => asadsd
+    [course] => degree
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:01:31 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:01:31 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:02:54 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:02:54 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:05:14 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:05:41 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:06:02 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:06:02 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:07:37 ---
+POST: Array
+(
+    [name] => manas singh
+    [email] => creatersanime@gmail.com
+    [phone] => +918081022772
+    [interest] => b.tech
+    [message] => rghrfhsdrh
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:07:43 ---
+POST: Array
+(
+    [name] => manas singh
+    [email] => creatersanime@gmail.com
+    [phone] => +918081022772
+    [interest] => b.tech
+    [message] => rghrfhsdrh
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:07:45 ---
+POST: Array
+(
+    [name] => manas singh
+    [email] => creatersanime@gmail.com
+    [phone] => +918081022772
+    [interest] => b.tech
+    [message] => rghrfhsdrh
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:07:48 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:07:48 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:07:48 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:22 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:30 ---
+POST: Array
+(
+    [name] => manas singh
+    [email] => creatersanime@gmail.com
+    [phone] => +918081022772
+    [interest] => sdasda
+    [message] => sadasd
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:33 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:33 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:37 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:37 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:37 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:39 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:09:39 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:11:24 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:11:24 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:11:40 ---
+POST: Array
+(
+    [name] => manas singh
+    [email] => creatersanime@gmail.com
+    [phone] => +918081022772
+    [interest] => sasa
+    [message] => sasasa
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:11:42 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:11:42 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:11:42 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+
+--- 2026-05-02 22:12:30 ---
+POST: Array
+(
+)
+
+FILES: Array
+(
+)
+

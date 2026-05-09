@@ -56,7 +56,7 @@
            GLOBAL HEADING SYSTEM (UNIFIED)
         ═══════════════════════════════════════ */
 
-        /* Section tag — छोटा label ऊपर */
+        /* Section tag */
         .section-tag {
             display: inline-block;
             font-family: 'Inter', sans-serif;
@@ -272,7 +272,7 @@
         .mobile-menu {
             position: fixed;
             inset: 0;
-            z-index: 999;
+            z-index: 1100;
             background: var(--bg-surface);
             display: flex;
             flex-direction: column;
@@ -303,13 +303,21 @@
         }
         .mob-close {
             position: absolute;
-            top: 1.5rem; right: 5%;
-            font-size: 1.6rem;
-            color: var(--text-muted);
+            top: 2rem; right: 2rem;
+            width: 44px; height: 44px;
+            background: var(--bg-card);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.4rem;
+            color: var(--text-primary);
             cursor: pointer;
-            transition: color 0.3s;
+            transition: all 0.3s;
+            z-index: 1101;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
-        .mob-close:hover { color: var(--primary); }
+        .mob-close:hover { background: var(--primary); color: #fff; transform: rotate(90deg); }
 
         /* ═══════════════════════════════════════
            HERO
@@ -631,7 +639,7 @@
             color: var(--text-muted);
             transition: color 0.2s;
         }
-        .visit-link:hover { color: var(--primary); }
+        .visit-link{ color:#2563EB }
         .read-more-btn {
             font-size: 0.75rem;
             font-weight: 600;
